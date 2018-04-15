@@ -1,0 +1,6 @@
+12,Dafina,Marku,19.03.1996,CS344,2018,Spring,Ahmed Whateer,10,5
+12,Dafina,Marku,19.03.1996,CS665,2018,Spring,Ahmed Whateer,10,5
+13,Brikend,Rama,05.06.1992,CS665,2017,Autumn,Mariusz Nowostawski,7,4
+13,Brikend,Rama,05.06.1992,CS776,2017,Spring,Simon McCullum,7,3
+14,Filan,Fisteku,17.08.1996,CS344,2018,Spring,Ahmed Whateer,10,5
+14,Filan,Fisteku,17.08.1996,CS776,2017,Spring,Sismon McCullum,7,2
